@@ -1,9 +1,26 @@
+
 <h1 align="center">Hi 👋, I'm Amit Bhadoria</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
+
+
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;I'm+a++Computer+Science+Undergraduate" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Android+Developer;I'm+a++Computer+Science+Undergraduate" />
 </p>
+
+<p align="center">
+  <a href="mailto:amitbhadoria2001@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amitbhadoria" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/amitbhadoria16" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+  </a>&nbsp;&nbsp;
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbhadoria2001&label=Profile%20views&color=0e75b6&style=flat" alt="amitbhadoria2001" /> </p>
 
