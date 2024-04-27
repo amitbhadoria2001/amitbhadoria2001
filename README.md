@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbhadoria2001&label=Profile%20views&color=0e75b6&style=flat" alt="amitbhadoria2001" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitbhadoria2001" alt="amitbhadoria2001" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/amitbhadoria16" target="blank"><img src="https://img.shields.io/twitter/follow/amitbhadoria16?logo=twitter&style=for-the-badge" alt="amitbhadoria16" /></a> </p>
 
 - 🔭 I’m currently working on **LegalEase**
